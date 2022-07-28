@@ -1,6 +1,6 @@
 # Alura-Plus
 
-Desenvolvimento da pagina de um projeto fictício (Alura Plus) Para fins de estudo e analise das tecnologias HTML/CSS
+Desenvolvimento da pagina de um projeto fictício (Alura Plus) Para fins de estudo e prática das tecnologias HTML/CSS
 
 Toda a estilização que será usada no projeto dentro do figma.
 
