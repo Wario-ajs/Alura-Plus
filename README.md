@@ -16,7 +16,7 @@ Cinza Secundario: `#c0c0c0`
 
 Botão Azul: `#167bf7`
 
-## Ícones
+## Fontes
 
 As fontes usasdas estão dispostas na família criada no google fonts com as fontes: 'inter' font-weigth: 400, 700:
 
