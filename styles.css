@@ -147,6 +147,7 @@ body {
     padding: 8px;
     gap: 2em;
     margin-top: 1em;
+    list-style-type: none;
 }
 
 .lista__link a:hover {
