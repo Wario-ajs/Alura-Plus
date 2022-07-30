@@ -23,3 +23,7 @@ As fontes usasdas estão dispostas na família criada no google fonts com as fon
     href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
 
     *font-family: 'Inter', sans-serif;*
+
+## Deploy
+
+Link do Projeto para visualização no Vercel : https://alura-plus-xi-seven.vercel.app
